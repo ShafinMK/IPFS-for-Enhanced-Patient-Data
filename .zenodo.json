@@ -1,1 +1,33 @@
-<escape>{ "title": "Patient-Centric Healthcare Data Management on Hyperledger Fabric and IPFS", "description": "Reference implementation, deployment artifacts, benchmark harness, and statistical analysis scripts for a permissioned blockchain framework for secure, patient-controlled healthcare data management using Hyperledger Fabric v2.2.14 and IPFS. Includes access-control and data-sharing chaincode, AES-256-GCM/RSA-OAEP/HKDF encryption and key-epoch revocation, IPFS chunking client, 30-run statistical validation harness, and synthetic (non-PHI) data generator.", "creators": [ { "name": "Tuly, Sadia Nasrin", "affiliation": "Bangladesh Army International University of Science and Technology (BAIUST)" }, { "name": "Reno, Saha", "affiliation": "Ahsanullah University of Science and Technology (AUST)" }, { "name": "Roy, Koushik", "affiliation": "R. P. Shaha University" }, { "name": "Shafin, Khandakar Md.", "affiliation": "Department of CSE, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla-3501, Bangladesh", "orcid": "", "email": "khandakar.md.shafin.74@gmail.com" } ], "upload_type": "software", "license": "Apache-2.0", "access_right": "open", "keywords": [ "hyperledger-fabric", "ipfs", "blockchain", "healthcare", "privacy", "aes-256-gcm" ], "related_identifiers": [ { "identifier": "<PAPER-DOI-IF-ANY>", "relation": "isSupplementTo", "scheme": "doi" } ] }</escape>
+{
+  "title": "Patient-Centric Healthcare Data Management on Hyperledger Fabric and IPFS",
+  "description": "Reference implementation, deployment artifacts, benchmark harness, and statistical analysis scripts for a permissioned blockchain framework for secure, patient-controlled healthcare data management using Hyperledger Fabric v2.2.14 and IPFS. Includes access-control and data-sharing chaincode, AES-256-GCM/RSA-OAEP/HKDF encryption and key-epoch revocation, IPFS chunking client, 30-run statistical validation harness, and synthetic (non-PHI) data generator.",
+  "creators": [
+    {
+      "name": "Tuly, Sadia Nasrin",
+      "affiliation": "Bangladesh Army International University of Science and Technology (BAIUST)"
+    },
+    {
+      "name": "Reno, Saha",
+      "affiliation": "Ahsanullah University of Science and Technology (AUST)"
+    },
+    {
+      "name": "Roy, Koushik",
+      "affiliation": "R. P. Shaha University"
+    },
+    {
+      "name": "Shafin, Khandakar Md.",
+      "affiliation": "Department of CSE, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla-3501, Bangladesh"
+    }
+  ],
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "hyperledger-fabric",
+    "ipfs",
+    "blockchain",
+    "healthcare",
+    "privacy",
+    "aes-256-gcm"
+  ]
+}
