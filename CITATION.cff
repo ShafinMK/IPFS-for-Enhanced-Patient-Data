@@ -1,0 +1,13 @@
+cff-version: 1.2.0 message: "If you use this software, please cite the paper and this repository." title: "Patient-Centric Healthcare Data Management on Hyperledger Fabric and IPFS" abstract: >- Reference implementation and deployment artifacts for a permissioned blockchain framework for secure, patient-controlled healthcare data management using Hyperledger Fabric v2.2.14 and IPFS. authors:
+
+family-names: "Tuly" given-names: "Sadia Nasrin" affiliation: "Bangladesh Army International University of Science and Technology (BAIUST)"
+family-names: "Reno" given-names: "Saha" affiliation: "Ahsanullah University of Science and Technology (AUST)"
+family-names: "Roy" given-names: "Koushik" affiliation: "R. P. Shaha University"
+family-names: "Shafin" given-names: "Khandakar Md." affiliation: "Department of CSE, Bangladesh Army International University of Science and Technology (BAIUST), Cumilla-3501, Bangladesh" email: "khandakar.md.shafin.74@gmail.com" version: 1.0.0 date-released: "2026-01-01" license: Apache-2.0 repository-code: "https://github.com/<ORG>/<REPO>" identifiers:
+type: doi value: "10.5281/zenodo.<ZENODO-DOI>" description: "Archived release on Zenodo" keywords:
+hyperledger-fabric
+ipfs
+blockchain
+healthcare
+privacy
+aes-256-gcm

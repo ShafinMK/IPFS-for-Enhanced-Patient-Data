@@ -1,0 +1,9 @@
+# Minimal overrides; Fabric defaults are inherited.
+peer:
+  tls:
+    enabled: true
+  gossip:
+    useLeaderElection: true
+  ledger:
+    state:
+      stateDatabase: CouchDB
